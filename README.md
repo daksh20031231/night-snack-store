@@ -5,3 +5,6 @@ A full-stack multi-vendor food delivery web application built for hostel environ
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## CONTACT FOR ISSUES AND CONTRIBUTION
+email - daksh20031231@gmail.com
