@@ -30,7 +30,7 @@ export default function SignIn() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
           <CardTitle className="text-2xl font-bold text-gray-900">Night Snack Delivery</CardTitle>
@@ -42,6 +42,11 @@ export default function SignIn() {
           </Button>
         </CardContent>
       </Card>
+
+      {/* Footer */}
+      <footer className="mt-6 text-center text-sm text-gray-500">
+        Made with ❤️ by Daksh Sharma
+      </footer>
     </div>
   )
 }

@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Night Snack Delivery - Hostel Food App",
   description: "Order delicious snacks from your hostel mates",
-    generator: 'v0.dev'
+    generator: 'DAKSH SHARMA'
 }
 
 export default function RootLayout({
